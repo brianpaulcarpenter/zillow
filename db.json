@@ -1,8 +1,16 @@
 {
   "agents": [
     {
-      "id": 1,
-      "title": "hello"
+      "rank": 1,
+      "zuid": "1234"
+    },
+    {
+      "rank": 2,
+      "zuid": "567"
+    },
+    {
+      "rank": 3,
+      "zuid": "7890"
     }
   ]
 }
